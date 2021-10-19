@@ -7,7 +7,7 @@ Individual project for my Computer Graphics class using Unity and WebGL to creat
 The inside of a fast food restaurant. There will be one counter with a cash register and some tables and chairs. The objects will need to have shadows according to the light present at the top of the room. If there is time to do so, food will also be added to the tables. Sketch of the desired scene:
 
 <img src="https://github.com/lorena-ang/WebGL-FastFood/blob/main/SceneSketch.png" width="500">
-* Tools: Unity to create the scene and to export it as a WebGL file (https://learn.unity.com/tutorial/how-to-publish-for-webgl?signup=true#5d92519bedbc2a130fa21789).
+* Tools: Unity to create the scene using 3D objects in .fbx and .obj format, as well as to add textures and materials. The Unity scene will then be exported as a WebGL file (https://learn.unity.com/tutorial/how-to-publish-for-webgl?signup=true#5d92519bedbc2a130fa21789).
 
 ### Elements
   - Walls (https://www.cgtrader.com/free-3d-models/architectural/engineering/concrete-wall)
