@@ -18,6 +18,7 @@ The inside of a fast food restaurant. There will be one counter with a cash regi
   - Tables (https://assetstore.unity.com/packages/3d/props/interior/modern-table-with-chairs-83834)
   - Chairs (https://assetstore.unity.com/packages/3d/props/interior/modern-table-with-chairs-83834)
   - Sitting booths (https://www.cgtrader.com/free-3d-models/interior/other/restaurant-table-set)
+  - Ceiling lamps (https://www.cgtrader.com/free-3d-models/various/various-models/lamp-05-am152)
 
 ### Animation
 The 3D restaurant logo is going to be rotating on its axis.
