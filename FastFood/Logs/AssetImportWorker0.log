@@ -825,3 +825,83 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1746.940559 seconds.
+  path: Assets/Objects/AM152_005 Tlon Cubo 860 Ceiling.FBX
+  artifactKey: Guid(e86d4572b9b454e9a9d342e783421fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/AM152_005 Tlon Cubo 860 Ceiling.FBX using Guid(e86d4572b9b454e9a9d342e783421fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d4ff572c40f4e1f218695e7f379e958') in 1.442573 seconds 
+  Import took 1.464011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 178.730361 seconds.
+  path: Assets/Objects/ceilingLight.FBX
+  artifactKey: Guid(e86d4572b9b454e9a9d342e783421fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/ceilingLight.FBX using Guid(e86d4572b9b454e9a9d342e783421fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5c291456bfb64883a74d820de80131a') in 0.064324 seconds 
+  Import took 0.075245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 471.238946 seconds.
+  path: Assets/Objects/Materials/New Material.mat
+  artifactKey: Guid(04aa34a15e9984d818ac23165dba80c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Materials/New Material.mat using Guid(04aa34a15e9984d818ac23165dba80c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd99724acf6fa4188e214d7a5682bb8dc') in 0.353531 seconds 
+  Import took 0.361232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.046089 seconds.
+  path: Assets/Objects/Materials/CeilingLight.mat
+  artifactKey: Guid(04aa34a15e9984d818ac23165dba80c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Materials/CeilingLight.mat using Guid(04aa34a15e9984d818ac23165dba80c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6952269ccc5c99034c02d15c996207e') in 0.008862 seconds 
+  Import took 0.012152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 183.232699 seconds.
+  path: Assets/Wooden floor/Wooden floor 07
+  artifactKey: Guid(9a20446b1802c4c4497aaf863ace89bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wooden floor/Wooden floor 07 using Guid(9a20446b1802c4c4497aaf863ace89bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e6dda38524e378a365f0232de2793c4') in 0.001867 seconds 
+  Import took 0.005815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.942685 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd28007881964d44564459cfe77295b3') in 0.004890 seconds 
+  Import took 0.014830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.939513 seconds.
+  path: Assets/Dactilardesign/4k materials
+  artifactKey: Guid(59e30d992ae9bbc4e8059b1d0d12a054) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dactilardesign/4k materials using Guid(59e30d992ae9bbc4e8059b1d0d12a054) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ddbc82aff66f791158683d80133ee55') in 0.002246 seconds 
+  Import took 0.005594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.539926 seconds.
+  path: Assets/Dactilardesign/4k materials/textures/asphalt
+  artifactKey: Guid(1a22935443dff5b4c9ce42bf2771dbb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dactilardesign/4k materials/textures/asphalt using Guid(1a22935443dff5b4c9ce42bf2771dbb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '374e20c2824801d41e1ebb6afc245b9e') in 0.001930 seconds 
+  Import took 0.006049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.716253 seconds.
+  path: Assets/HighQualityBricks&Walls/Shaders
+  artifactKey: Guid(cc0a757df2ee29c4591c4d8d360629b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HighQualityBricks&Walls/Shaders using Guid(cc0a757df2ee29c4591c4d8d360629b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5601f5e00385c4cc6f13d8dc0af2a422') in 0.001835 seconds 
+  Import took 0.006912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.666092 seconds.
+  path: Assets/HighQualityBricks&Walls/Images/wall-846015
+  artifactKey: Guid(173ae74df681551469c6a50318b0ace0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HighQualityBricks&Walls/Images/wall-846015 using Guid(173ae74df681551469c6a50318b0ace0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2da57aef8c66dd235b7ab51339b86021') in 0.001137 seconds 
+  Import took 0.009566 seconds .
+
