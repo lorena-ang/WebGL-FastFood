@@ -2823,3 +2823,35 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1345.044106 seconds.
+  path: Assets/Materials/Black.mat
+  artifactKey: Guid(c4799e4b30f7b4ae0942608c892cd1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Black.mat using Guid(c4799e4b30f7b4ae0942608c892cd1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67d0d968f71fcad3e4751d8865d7b581') in 0.213970 seconds 
+  Import took 0.222485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.736530 seconds.
+  path: Assets/Materials/Black.mat
+  artifactKey: Guid(c4799e4b30f7b4ae0942608c892cd1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Black.mat using Guid(c4799e4b30f7b4ae0942608c892cd1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c936e93ef188c873a7b0f8535b9e14da') in 0.014804 seconds 
+  Import took 0.018535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Materials/BlackMetal.mat
+  artifactKey: Guid(f9c6121023e984971b988bbf73cfcf41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/BlackMetal.mat using Guid(f9c6121023e984971b988bbf73cfcf41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41ed478ea43118b8625f28316ee56f47') in 0.013114 seconds 
+  Import took 0.016210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.161049 seconds.
+  path: Assets/Materials/BlackCeiling.mat
+  artifactKey: Guid(c4799e4b30f7b4ae0942608c892cd1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/BlackCeiling.mat using Guid(c4799e4b30f7b4ae0942608c892cd1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57e726a0ef97383627bb1ab337b282ab') in 0.008896 seconds 
+  Import took 0.012467 seconds .
+
