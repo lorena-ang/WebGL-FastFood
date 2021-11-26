@@ -2589,7 +2589,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 439478728}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.4906626, y: 1.53, z: -19.34}
+  m_LocalPosition: {x: 0.4906626, y: 1.53, z: -21.97}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 963194228}
@@ -3369,7 +3369,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -490.90222, y: -394.75327}
+  m_AnchoredPosition: {x: -489, y: -438.8}
   m_SizeDelta: {x: 823.7956, y: 161.7068}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &797160044
@@ -4632,7 +4632,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -487.4351, y: -397}
+  m_AnchoredPosition: {x: -485.53287, y: -441.04672}
   m_SizeDelta: {x: 786.4598, y: 137.9101}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1085800845
@@ -4669,7 +4669,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1.2
   m_Text: "Controles:\n- WASD/Flechas: Movimiento\n- Mouse: Perspectiva de la c\xE1mara\n-
-    Barra espaciadora: Aparecer/desaparecer techo y pared de en frente"
+    Barra espaciadora: Aparecer/desaparecer techo y pared de enfrente"
 --- !u!222 &1085800846
 CanvasRenderer:
   m_ObjectHideFlags: 0
