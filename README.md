@@ -1,7 +1,7 @@
 # WebGL-FastFood
 Individual project for my Computer Graphics class using Unity and WebGL to create a 3D scene.
-Link to access the completed project: https://simmer.io/@loreang98/fastfood-a01039980
-Link to video demo using simmer.io upload: https://drive.google.com/file/d/13rMcYhsuoWSnRAJyL_oaITmNa87whs2S/view?usp=sharing
+- Link to access the completed project: https://simmer.io/@loreang98/fastfood-a01039980
+- Link to video demo using simmer.io upload: https://drive.google.com/file/d/13rMcYhsuoWSnRAJyL_oaITmNa87whs2S/view?usp=sharing
 
 ### Scene
 The inside of a fast food restaurant. There will be one counter with a cash register and some tables and chairs. The objects will need to cast shadows according to the illumination present. If there is time to do so, food will also be added to the tables. Rough sketch of the desired scene, which can be expanded:
